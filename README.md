@@ -3,3 +3,5 @@
 
  Realizando Teste do curso de Git E Github
  Repositório criado durante uma aula ao vivo
+ 
+ Adicionei diretamente no site!
